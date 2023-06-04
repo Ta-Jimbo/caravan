@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.visual-1 {
+  background-image: url(img-exercise/box1.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.visual-2 {
+  background-image: url(img-exercise/box2.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.visual-3 {
+  background-image: url(img-exercise/box3.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.visual-4 {
+  background-image: url(img-exercise/box4.jpg);
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}

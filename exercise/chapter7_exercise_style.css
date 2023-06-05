@@ -1,0 +1,29 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img-exercise/mv.jpg);
+  background-size: cover;
+  background-position: bottom center;
+}
+
+h1 {
+  padding: 20px;
+  color: #696969;
+}
+
+
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.info-box {
+  padding:30px 0;
+  border-bottom: 1px solid #000;
+}

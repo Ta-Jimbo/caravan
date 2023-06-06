@@ -65,5 +65,6 @@ p {
 
 footer {
   height: 50px;
+  min-width: 990px;
   background-color: #aaa;
 }
